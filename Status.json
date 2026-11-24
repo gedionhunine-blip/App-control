@@ -2,7 +2,7 @@
   "default_active": true,
   "message": "አካውንትዎ በባለቤቱ በርቀት ታግዷል።",
   "accounts": {
-    "መኳንንት": false,
+    "መኳንንት": true,
     "user1": true
   }
 }
