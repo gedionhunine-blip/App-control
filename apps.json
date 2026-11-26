@@ -1,0 +1,29 @@
+[
+  {
+    "id": "gedion_11_4",
+    "name": "Gedion 11.4",
+    "packageName": "com.htmltoapk.gedion",
+    "version": "11.4",
+    "size": "5.72 MB",
+    "apkUrl": "https://github.com/gedionhunine-blip/releases/releases/download/v1.0/Gedion_11.4.com.htmltoapk.gedion.apk",
+    "description": "Gedion 11.4"
+  },
+  {
+    "id": "mezgebe_hiwot",
+    "name": "Mezgebe Hiwot Pro",
+    "packageName": "org.goranda.mezgebehiwotpro",
+    "version": "2.0",
+    "size": "38.3 MB",
+    "apkUrl": "https://github.com/gedionhunine-blip/releases/releases/download/v1.0/Mezgebe.Hiwot.Pro_2.0.org.goranda.mezgebehiwotpro.apk",
+    "description": "መዝገበ ሕይወት Pro"
+  },
+  {
+    "id": "vidmate_app",
+    "name": "VidMate",
+    "packageName": "com.video.fun.app",
+    "version": "5.1956",
+    "size": "25.0 MB",
+    "apkUrl": "https://github.com/gedionhunine-blip/releases/releases/download/v1.0/VidMate_5.1956.com.video.fun.app.apk",
+    "description": "VidMate"
+  }
+]
